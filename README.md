@@ -12,15 +12,24 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+ - Nome: Danton Rodrigues Diniz
+- Matricula: 882849
+- Proposta de projeto escolhida: Guia de Local Túristico
+- Breve descrição sobre seu projeto: Meu projeto é um projeto que se consiste em informar locais túristicos especificamente nos Estados Unidos, com imagens que mostram um pouco do lugar, informa a cidade que se encontra com suporte - também pra mobiles.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/84d80ca0-f9cb-43d4-bffe-d2d655362af7)
+
+![image](https://github.com/user-attachments/assets/fd13241f-4e8c-4936-b18b-26c7ac89d8ae)
+
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![image](https://github.com/user-attachments/assets/05505d78-9c6f-4d71-9350-405027879013)
+
+![image](https://github.com/user-attachments/assets/510d9caf-42de-4b32-b095-063d6258cfa6)
+
+
+
+
