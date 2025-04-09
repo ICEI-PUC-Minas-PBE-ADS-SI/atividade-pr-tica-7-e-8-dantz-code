@@ -1,0 +1,173 @@
+/* Garante que os elementos fiquem na mesma linha */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+    gap: 10px;
+    margin: 0;
+}
+
+/* Ajusta os blocos que contêm as imagens */
+.container > div {
+    width: 30%;
+    border: 1px solid black;
+    text-align: left; /* Corrigido para alinhar à esquerda */
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(4, 46, 92);
+    opacity: 0.9;
+    color: white;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow:
+        2px -2px 0 black,
+        -2px  2px 0 black,
+         2px  2px 0 black,
+        -2px -2px 0 black,
+         2px -2px 0 black,
+        -2px  2px 0 black,
+         2px  2px 0 black,
+        -2px  0px 0 black,
+         2px  0px 0 black,
+         0px -2px 0 black,
+         0px  2px 0 black;
+}
+
+/* Ajusta as imagens para preencher o espaço corretamente */
+.container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-height: 200px;
+    margin: 10px 0;
+}
+
+body {
+    background-image: url(oceano.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 10px;
+    color: rgb(248, 246, 246);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Remove a centralização geral dos divs (essa linha estava afetando tudo) */
+div {
+    /* REMOVIDO: text-align: center; */
+}
+
+/* Navegação */
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 15px;
+}
+
+header {
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    display: inline-block;
+    background-color: rgb(4, 46, 92);
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background-color: rgb(3, 35, 70);
+}
+/* Container dos cards */
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Estilo dos cards */
+.card-turistico {
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: calc(33.333% - 40px);
+    background-color: rgb(4, 46, 92);
+    color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Imagem dos cards */
+.card-turistico img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin: 10px 0;
+}
+
+/* Texto fixo acima dos cards */
+.info-site {
+    background-color: rgb(4, 46, 92);
+    width: 100%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    opacity: 90%;
+    background-
+}
+.info-site img {
+    max-width: 400px; /* ou 100% se quiser responsivo */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* centraliza */
+    border-radius: 10px;
+}
+
+.footer {
+    width: 30%;
+    text-align: left; /* Corrigido para alinhar à esquerda */
+    padding: 10px;
+    box-sizing: border-box;
+    opacity: 0.9;
+    color: white;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow:
+        2px -2px 0 black,
+        -2px  2px 0 black,
+         2px  2px 0 black,
+        -2px -2px 0 black,
+         2px -2px 0 black,
+        -2px  2px 0 black,
+         2px  2px 0 black,
+        -2px  0px 0 black,
+         2px  0px 0 black,
+         0px -2px 0 black,
+         0px  2px 0 black;
+}
+
