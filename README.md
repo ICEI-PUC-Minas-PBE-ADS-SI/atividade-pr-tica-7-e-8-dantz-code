@@ -19,16 +19,21 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com CSS puro
 
+![image](https://github.com/user-attachments/assets/14f182f6-e937-4c74-a1f3-108c37742351)
+
+
+
+![image](https://github.com/user-attachments/assets/29c767da-bd8c-4b49-81b1-f837887d746e)
+
+
+
+## Print do detalhes.html
+
+![image](https://github.com/user-attachments/assets/14bb27aa-3982-4f3f-b5e2-d04a9102881d)
+
 ![image](https://github.com/user-attachments/assets/84d80ca0-f9cb-43d4-bffe-d2d655362af7)
 
-![image](https://github.com/user-attachments/assets/fd13241f-4e8c-4936-b18b-26c7ac89d8ae)
 
-
-## Print da versão responsiva com Bootstrap
-
-![image](https://github.com/user-attachments/assets/05505d78-9c6f-4d71-9350-405027879013)
-
-![image](https://github.com/user-attachments/assets/510d9caf-42de-4b32-b095-063d6258cfa6)
 
 
 
