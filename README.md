@@ -19,11 +19,16 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com CSS puro
 
+
+
+
+![image](https://github.com/user-attachments/assets/2c1490a0-1380-4551-a67f-bd9739757868)
+
+
 ![image](https://github.com/user-attachments/assets/14f182f6-e937-4c74-a1f3-108c37742351)
 
 
 
-![image](https://github.com/user-attachments/assets/29c767da-bd8c-4b49-81b1-f837887d746e)
 
 
 
@@ -31,7 +36,7 @@ Leia o enunciado completo no Canvas.
 
 ![image](https://github.com/user-attachments/assets/14bb27aa-3982-4f3f-b5e2-d04a9102881d)
 
-![image](https://github.com/user-attachments/assets/84d80ca0-f9cb-43d4-bffe-d2d655362af7)
+![image](https://github.com/user-attachments/assets/29c767da-bd8c-4b49-81b1-f837887d746e)
 
 
 
